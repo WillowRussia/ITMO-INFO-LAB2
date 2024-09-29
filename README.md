@@ -95,3 +95,5 @@
 ## Скриншот работы скрипта
 
 ![image](https://github.com/WillowRussia/ITMO-INFO-LAB2/blob/main/Assets/lab2image.png?raw=true)
+
+![image](https://github.com/WillowRussia/ITMO-INFO-LAB2/blob/main/Assets/lab2image2.png?raw=true)
